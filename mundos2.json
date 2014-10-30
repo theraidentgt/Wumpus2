@@ -1,0 +1,6 @@
+[
+	{"dimensiones":"6","posAvismos":[[2,0],[4,1],[4,3],[2,4],[1,1],[0,3]],"posWumpus":[[3,0]],"posOro":[[5,1]],"posAventurero":[0,5]},
+	{"dimensiones":"8","posAvismos":[[2,1],[4,2],[7,1],[5,4],[2,5],[1,3],[6,6],[6,3],[0,6],[0,0],[3,6],[5,0]],"posWumpus":[[0,2]],"posOro":[[0,1]],"posAventurero":[7,5]},
+	{"dimensiones":"6","posAvismos":[[5,1],[4,4],[1,5],[0,4],[2,0],[1,1],[3,1],[5,3]],"posWumpus":[[4,0],[1,4]],"posOro":[[3,5]],"posAventurero":[0,0]},
+	{"dimensiones":"5","posAvismos":[[2,3],[3,4],[3,0],[2,0],[1,3]],"posWumpus":[[1,2]],"posOro":[[1,4]],"posAventurero":[4,3]}
+]
